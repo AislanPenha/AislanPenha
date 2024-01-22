@@ -4,12 +4,12 @@
 Olá! 👋 Eu sou Aislan Bandeira Penha, um entusiasta da programação em busca de oportunidades para crescer e contribuir no mundo da tecnologia. Sou apaixonado por resolver problemas usando código e sempre busco aprimorar minhas habilidades.
 
 ### 💻 Habilidades
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>        
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>         
-
+- Linguagens: ![Static Badge](https://img.shields.io/badge/Python-blank?logo=python&color=black) ![Static Badge](https://img.shields.io/badge/JavaScript-blank?logo=javascript&color=black) ![Static Badge](https://img.shields.io/badge/Java-blank?logo=java&color=black) ![Static Badge](https://img.shields.io/badge/PHP-blank?logo=php&color=black)
+- Desenvolvimento: ![Static Badge](https://img.shields.io/badge/HTML-blank?logo=html5) ![Static Badge](https://img.shields.io/badge/CSS-blank?logo=css3) ![Static Badge](https://img.shields.io/badge/BootStrap-blank?logo=bootstrap)
+- Banco de Dados: ![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql&color=white) ![Static Badge](https://img.shields.io/badge/MongoDB-black?logo=mongodb&color=white) 
+- Versionamento: ![Static Badge](https://img.shields.io/badge/GIT-black?logo=git&color=%23449468) ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github&color=%23449468)
+- Frameworks: ![Static Badge](https://img.shields.io/badge/React-black?logo=react&color=red)
+       
 ### 🌱 Aprendizado Contínuo
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento web e explorando o ecossistema de machine learning.
 
