@@ -8,7 +8,7 @@ Olá! 👋 Eu sou Aislan Bandeira Penha, um entusiasta da programação em busca
 - Desenvolvimento: ![Static Badge](https://img.shields.io/badge/HTML-blank?logo=html5) ![Static Badge](https://img.shields.io/badge/CSS-blank?logo=css3) ![Static Badge](https://img.shields.io/badge/BootStrap-blank?logo=bootstrap)
 - Banco de Dados: ![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql&color=white) ![Static Badge](https://img.shields.io/badge/MongoDB-black?logo=mongodb&color=white) 
 - Versionamento: ![Static Badge](https://img.shields.io/badge/GIT-black?logo=git&color=%23449468) ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github&color=%23449468)
-- Frameworks: ![Static Badge](https://img.shields.io/badge/React-black?logo=react&color=red) ![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel&logoColor=white&color=FF2D20)
+- Frameworks: ![Static Badge](https://img.shields.io/badge/React-black?logo=react&color=red) ![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel&logoColor=white&color=FF2D20) ![Static Badge](https://img.shields.io/badge/GLPI-black?logo=glpi&logoColor=white&color=red)
        
 ### 🌱 Aprendizado Contínuo
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento web e explorando o ecossistema de machine learning.
